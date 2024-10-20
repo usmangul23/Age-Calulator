@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1BZbmP4YcbG1cgRYkzv9_ws9I7PZrS-eJ
 """
 
-!pip install Streamlit
 
 """Age Calculator"""
 
